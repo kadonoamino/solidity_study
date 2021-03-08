@@ -1,0 +1,1 @@
+docker-compose run solc --bin hello-world.sol
